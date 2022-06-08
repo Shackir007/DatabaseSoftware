@@ -1,0 +1,12 @@
+
+evil 4 5 name str type str alias str spell str 
+evil 4 5 name str type str alias str spell str 
+evil 4 5 name str type str alias str spell str 
+evil 4 5 name str type str alias str spell str 
+evil 4 5 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
+evil 4 1 name str type str alias str spell str 
